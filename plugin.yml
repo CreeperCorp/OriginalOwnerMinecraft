@@ -1,0 +1,6 @@
+name: OriginalOwner
+version: 1.0.3
+main: com.qyllz.originalowner.OriginalOwnerPlugin
+api-version: '1.21'
+author: Qyllz
+description: Tracks the original owner of eligible equipment and displays Original or Stolen in item tooltips.
